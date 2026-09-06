@@ -1,0 +1,16 @@
+export const routes = [
+  "/",
+  "/servizi",
+  "/lavori",
+  "/lavori/casa-lino",
+  "/lavori/onda",
+  "/chi-sono",
+  "/contatti",
+  "/guide",
+  "/guide/menu-digitale-ristorante",
+  "/guide/prenotazioni-dirette-ristorante",
+  "/guide/sito-ristorante-google",
+  "/privacy",
+  "/concept/casa-lino",
+  "/concept/onda",
+];
